@@ -64,7 +64,7 @@ const teamMembers = [
     role: "Backend Developer",
     bio: "Desenvolvedor com experiência em Golang, Node.js, PHP, React, PostgreSQL, Git, AWS e metodologias ágeis. Reconhecido pela proatividade, ética, comunicação clara e capacidade de resolver problemas com criatividade e responsabilidade.",
     image: "/jv2.jpeg",
-    skills: ["Golang", "PHP", "DevOps", "Postgres", "AWS",],
+    skills: ["Golang", "PHP", "DevOps", "Postgres", "AWS"],
     social: {
       github: "https://github.com/jvsouz4",
       linkedin: "https://www.linkedin.com/in/jvsouz4/",
