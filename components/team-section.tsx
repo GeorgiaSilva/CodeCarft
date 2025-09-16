@@ -63,7 +63,7 @@ const teamMembers = [
     name: "João",
     role: "Backend Developer",
     bio: "Desenvolvedor mobile especializado em React Native e Flutter. Cria aplicativos nativos de alta performance para iOS e Android.",
-    image: "/jv.jpeg",
+    image: "/jv2.jpeg",
     skills: ["Docker", "DevOps"],
     social: {
       github: "https://github.com/edmfilho ",
