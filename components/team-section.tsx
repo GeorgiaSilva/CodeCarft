@@ -36,7 +36,7 @@ const teamMembers = [
     id: "rafael",
     name: "Rafael Santos",
     role: "Mobile developer",
-    bio: "Desenvolvedor Android experiente, especializada em criar aplicativos móveis intuitivos, performáticos e otimizados.",
+    bio: "Desenvolvedor Android experiente, especializado em criar aplicativos móveis intuitivos, performáticos e otimizados.",
     image: "/rafael.jpeg",
     skills: ["Kotlin", "Java", "Android Studio", "Jetpack Compose", "MVVM"],
     social: {
